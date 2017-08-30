@@ -2,6 +2,21 @@
 A collection of resources that may be useful during (and after) final projects.
 
 
+## Client-side Templating
+* [BREAKOUT: The Asset Pipeline](https://s3.amazonaws.com/bitmakerhq/lessons/web-development/2016-08-team-johnny5/the-asset-pipeline.mp4)
+  * A quick breakout on The Asset Pipeline. Don't forget to read the docs here: http://guides.rubyonrails.org/asset_pipeline.html
+* [Jeff Bezos Service Oriented Architecture Mandate](http://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/)
+  * An article about the mandate that turned Amazon into a service-oriented company.
+* [Turbolinks Gem](https://github.com/rails/turbolinks)
+  * The official documentation on the Turbolinks gem, this is the place to go to figure out the nuances of the gem and determine whether you want to use it or not.
+* [UndescoreJS Template](http://underscorejs.org/#template)
+  * Javascript template library that uses Ruby syntax rather than mustache syntax for data binding. Used by default in all Backbone.js apps.
+* [Handlebars JS ](http://handlebarsjs.com/)
+  * Widely used Javascript templating library that allows for conditional content.
+* [Rails Guides: Working with JavaScript](http://edgeguides.rubyonrails.org/working_with_javascript_in_rails.html#turbolinks)
+* [JavaScript Template Engine Chooser](http://garann.github.io/template-chooser/)
+* [AJAX in diagram form ](http://adaptivepath.org/uploads/archive/images/publications/essays/ajax-fig2.png)
+
 
 ## Front-end Frameworks
 * [Angular is a rollercoaster of emotions!](http://www.bennadel.com/blog/2439-my-experience-with-angularjs-the-super-heroic-javascript-mvw-framework.htm)
