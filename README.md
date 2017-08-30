@@ -3,6 +3,29 @@ A collection of resources that may be useful during (and after) final projects.
 
 
 
+## Front-end Frameworks
+* [Angular is a rollercoaster of emotions!](http://www.bennadel.com/blog/2439-my-experience-with-angularjs-the-super-heroic-javascript-mvw-framework.htm)
+  * A great, simple graphic on what it feels like to learn Angular.
+* [ReactJS](http://facebook.github.io/react/)
+  * A framework for developing UIs created by Facebook.
+* [Reactive User Interfaces](http://blog.percolatestudio.com/engineering/reactive-user-interfaces/)
+  * React explained in comparison to Meteor.
+* [Meteor](https://www.meteor.com/)
+  * Meteor is a new JS framework that encompasses both the front and back end, all in Javascript.
+* [EmberJS](http://emberjs.com/)
+  * A Rails-like Javascript framework that is gaining a lot of traction these days with large projects.
+* [AngularJS](http://angularjs.org/)
+  * Angular teaches web browsers new tricks. Focused solely on the view and routing layers for single-page applications.
+* [BackboneJS](http://backbonejs.org/)
+  * The first widely-used JS framework/library, this is a bare-bones system. Highly recommend reading the annotated source to read good JS and improve your skills.
+* [TodoMVC](http://todomvc.com/)
+  * Compares all of the widely used JS frameworks by implementing the same Todo app in all of them.
+* [Addy Osmani](http://addyosmani.com/)
+  * Google developer on the Chrome team, Addy is an expert on all things Javascript. Check out his books on Github: https://github.com/addyosmani
+* [Rails API Gem](https://github.com/rails-api/rails-api)
+  * Want to use Rails to make an API-only app? This gem will strip out all the parts you don't need so you can focus on making your API awesome.
+* [State of JS - Javascript Developer Survey](http://stateofjs.com/)
+  * Gives you a good idea of popularity and community opinion of various tools/frameworks in the JS community.
 
 
 ## Modern JavaScript
@@ -31,7 +54,6 @@ A collection of resources that may be useful during (and after) final projects.
 * [Create React App](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html)
   * A project generator for React apps. Very useful for getting started quickly and learning React with modern syntax!
 * [Exploring JS / ES6](http://exploringjs.com/es6/index.html)
-
 
 
 ## Interview Prep
