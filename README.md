@@ -2,6 +2,18 @@
 A collection of resources that may be useful during (and after) final projects.
 
 
+## Scheduled Tasks and Background Jobs
+* [Delayed Job](https://github.com/collectiveidea/delayed_job)
+* [Heroku Scheduler](https://devcenter.heroku.com/articles/scheduler)
+* [Whenever gem](https://github.com/javan/whenever)
+* [Active Job](http://edgeguides.rubyonrails.org/active_job_basics.html)
+* [Foreman Gem](https://github.com/ddollar/foreman)
+* [Crontab Quick Reference](http://www.adminschoice.com/crontab-quick-reference)
+* [Sidekiq](https://github.com/mperham/sidekiq)
+* [Resque](https://github.com/resque/resque)
+* [Custom Rake Tasks](http://guides.rubyonrails.org/command_line.html#custom-rake-tasks)
+
+
 ## Client-side Templating
 * [BREAKOUT: The Asset Pipeline](https://s3.amazonaws.com/bitmakerhq/lessons/web-development/2016-08-team-johnny5/the-asset-pipeline.mp4)
   * A quick breakout on The Asset Pipeline. Don't forget to read the docs here: http://guides.rubyonrails.org/asset_pipeline.html
