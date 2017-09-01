@@ -2,6 +2,10 @@
 A collection of resources that may be useful during (and after) final projects.
 
 
+## Programming Fundamentals
+* [Slides](https://docs.google.com/presentation/d/1b4zYRdSkSMDrLwgGy1dgFQNcIRk4VkGfP0AJMkfMEIw/edit#slide=id.p)
+
+
 ## Authentication and Authorization
 * [CanCanCan](https://github.com/CanCanCommunity/cancancan)
   * A gem used for managing roles.
