@@ -2,6 +2,19 @@
 A collection of resources that may be useful during (and after) final projects.
 
 
+## Authentication and Authorization
+* [CanCanCan](https://github.com/CanCanCommunity/cancancan)
+  * A gem used for managing roles.
+* [Salted Password Hashing – Doing It Right](https://crackstation.net/hashing-security.htm)
+  * This explains why we need per-user salt.
+* [Bundler](http://bundler.io/)
+  * Bundler manages gem dependencies for your Ruby projects.
+* [The Ruby Toolbox](https://www.ruby-toolbox.com/)
+  * A good site to see which gems are widely used by category.
+* [Screencast Part 2](http://s3.amazonaws.com/bitmakerhq/lessons/web-development/2016-03-team-hopper/authentication-authorization-part-2.mov)
+* [Sorcery](https://github.com/Sorcery/sorcery)
+
+
 ## Scheduled Tasks and Background Jobs
 * [Delayed Job](https://github.com/collectiveidea/delayed_job)
 * [Heroku Scheduler](https://devcenter.heroku.com/articles/scheduler)
