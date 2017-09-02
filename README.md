@@ -3,10 +3,14 @@ A collection of resources that may be useful during (and after) final projects.
 
 
 ## Programming Fundamentals
+
+* [Lesson Screencast](https://s3.amazonaws.com/bitmakerhq/lessons/web-development/2017-03-team-glados/w8d1-Programming-fundamentals.mp4)
 * [Slides](https://docs.google.com/presentation/d/1b4zYRdSkSMDrLwgGy1dgFQNcIRk4VkGfP0AJMkfMEIw/edit#slide=id.p)
 
 
 ## Authentication and Authorization
+
+* [Lesson Screencast](https://s3.amazonaws.com/bitmakerhq/lessons/web-development/2017-03-team-glados/w8d2-authentication-and-authorization.mp4)
 * [CanCanCan](https://github.com/CanCanCommunity/cancancan)
   * A gem used for managing roles.
 * [Salted Password Hashing – Doing It Right](https://crackstation.net/hashing-security.htm)
@@ -19,7 +23,20 @@ A collection of resources that may be useful during (and after) final projects.
 * [Sorcery](https://github.com/Sorcery/sorcery)
 
 
+## Web Fundamentals
+
+* [Lesson Screencast](https://s3.amazonaws.com/bitmakerhq/lessons/web-development/2017-03-team-glados/w8d3-web-fundamentals-review.mp4)
+
+
+## Review of JavaScript, jQuery, and the DOM
+
+* [Lesson Screencast](https://s3.amazonaws.com/bitmakerhq/lessons/web-development/2017-03-team-glados/w8d4-review-javascrypt-jquery-dom.mp4)
+
+
+
 ## Scheduled Tasks and Background Jobs
+
+* [Lesson Screencast](https://s3.amazonaws.com/bitmakerhq/lessons/web-development/2017-03-team-glados/w8d5-scheduled-tasks-background-jobs.mp4)
 * [Delayed Job](https://github.com/collectiveidea/delayed_job)
 * [Heroku Scheduler](https://devcenter.heroku.com/articles/scheduler)
 * [Whenever gem](https://github.com/javan/whenever)
@@ -32,6 +49,8 @@ A collection of resources that may be useful during (and after) final projects.
 
 
 ## Client-side Templating
+
+* [Lesson Screencast](https://s3.amazonaws.com/bitmakerhq/lessons/web-development/2017-03-team-glados/w9d1-client-side-templating.mp4)
 * [BREAKOUT: The Asset Pipeline](https://s3.amazonaws.com/bitmakerhq/lessons/web-development/2016-08-team-johnny5/the-asset-pipeline.mp4)
   * A quick breakout on The Asset Pipeline. Don't forget to read the docs here: http://guides.rubyonrails.org/asset_pipeline.html
 * [Jeff Bezos Service Oriented Architecture Mandate](http://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/)
@@ -48,6 +67,8 @@ A collection of resources that may be useful during (and after) final projects.
 
 
 ## Front-end Frameworks
+
+* [Lesson Screencast](https://s3.amazonaws.com/bitmakerhq/lessons/web-development/2017-03-team-glados/w9d2-intro-frontend-frameworks.mp4)
 * [Angular is a rollercoaster of emotions!](http://www.bennadel.com/blog/2439-my-experience-with-angularjs-the-super-heroic-javascript-mvw-framework.htm)
   * A great, simple graphic on what it feels like to learn Angular.
 * [ReactJS](http://facebook.github.io/react/)
@@ -73,6 +94,7 @@ A collection of resources that may be useful during (and after) final projects.
 
 
 ## Modern JavaScript
+
 * [Learn ES2015](https://babeljs.io/docs/learn-es2015/)
   * This is a resource about all of the changes introduced in ES2015.
 * [Say Hello to ES2015](https://tutor.mantrajs.com/say-hello-to-ES2015/introduction)
@@ -101,6 +123,8 @@ A collection of resources that may be useful during (and after) final projects.
 
 
 ## Interview Prep
+
+* [Lesson Screencast]()
 * [Bitmaker Labs Hiring Handbook](https://s3.amazonaws.com/bitmakerhq/resources/hiring-handbook.pdf)
 * [Big O Notation Explained](https://www.interviewcake.com/article/java/big-o-notation-time-and-space-complexity)
 * [Codewars](http://codewars.com/)
@@ -111,6 +135,7 @@ A collection of resources that may be useful during (and after) final projects.
 
 ## Deployment
 
+* [Lesson Screencast]()
 * [Deployment Series](http://vladigleba.com/blog/topics/deployment-series/)
   * Very in depth explanation on how to deploy your applications
 * [Capistrano gem](https://github.com/capistrano/capistrano)
